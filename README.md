@@ -10,7 +10,7 @@ The group develops multiple **AI Analyst Agents** (both Fundamental and Technica
 
 ## Demo Agent
 
-The agent of Wang Haoyan is selected as the **live demo agent** 
+The agent of Wang Haoyan is selected as the **live demo agent**.
 
 ### Run Instructions
 
