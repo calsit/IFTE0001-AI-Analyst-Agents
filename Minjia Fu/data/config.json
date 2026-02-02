@@ -1,1 +1,53 @@
+{
+  "ticker": "MSFT",
+  "company_name": "Microsoft",
+  "currency": "USD",
+  "years": 5,
 
+  "valuation": {
+    "method": "multiples_plus_simple_dcf",
+    "pe_reference": 30,
+    "min_upside_pct_for_buy": 10
+  },
+
+  "dcf": {
+    "projection_years": 5,
+    "wacc": 0.09,
+    "terminal_growth": 0.025,
+    "fcf_growth_cap": 0.15
+  },
+
+  "risk": {
+    "scenario": "base",
+    "weights": {
+      "investment_intensity": 0.6,
+      "regulatory": 0.4
+    },
+    "thresholds": {
+      "medium": 0.50,
+      "high": 0.75
+    },
+    "normalization": {
+      "investment_intensity": {
+        "low": 0.02,
+        "high": 0.30
+      },
+      "regulatory_size_usd": {
+        "low": 5e11,
+        "high": 5e12
+      }
+    }
+  },
+
+  "llm": {
+    "backend": "ollama",
+    "model": "llama3.2",
+    "timeout_seconds": 120
+  },
+
+  "output": {
+    "tables_dir": "outputs/tables",
+    "figures_dir": "outputs/figures",
+    "memo_path": "outputs/memo.md"
+  }
+}
