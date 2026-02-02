@@ -1,0 +1,10 @@
+# outputs / caches
+outputs/
+cache/
+__pycache__/
+.ipynb_checkpoints/
+
+# local files
+*.log
+*.pdf
+*.png
