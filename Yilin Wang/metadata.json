@@ -1,0 +1,5 @@
+{
+  "name": "MSFT Fundamental Analyst Agent",
+  "description": "An AI-powered valuation agent that performs Capital Structure analysis, WACC estimation, and FCFF DCF valuation for Microsoft (MSFT), culminating in a professional Investment Memo.",
+  "requestFramePermissions": []
+}
