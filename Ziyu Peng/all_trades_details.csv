@@ -1,0 +1,442 @@
+﻿strategy,action,date,price,size,reason
+Strategy 1: 10/30 SMA,buy,2014-10-31,39.77,2514.0,golden_cross
+Strategy 1: 10/30 SMA,sell,2014-12-11,40.21,0.0,death_cross
+Strategy 1: 10/30 SMA,buy,2015-04-20,36.84,2714.0,golden_cross
+Strategy 1: 10/30 SMA,sell,2015-04-24,41.1,0.0,rsi_overbought
+Strategy 1: 10/30 SMA,buy,2015-07-21,40.85,2447.0,golden_cross
+Strategy 1: 10/30 SMA,sell,2015-08-24,36.25,0.0,death_cross
+Strategy 1: 10/30 SMA,buy,2015-09-25,38.22,2616.0,golden_cross
+Strategy 1: 10/30 SMA,sell,2015-10-23,45.98,0.0,rsi_overbought
+Strategy 1: 10/30 SMA,buy,2016-05-31,47.07,2124.0,golden_cross
+Strategy 1: 10/30 SMA,sell,2016-06-16,44.75,0.0,death_cross
+Strategy 1: 10/30 SMA,buy,2016-07-12,47.25,2116.0,golden_cross
+Strategy 1: 10/30 SMA,sell,2016-09-12,50.98,0.0,death_cross
+Strategy 1: 10/30 SMA,buy,2016-09-30,51.47,1942.0,golden_cross
+Strategy 1: 10/30 SMA,sell,2017-01-23,56.64,0.0,death_cross
+Strategy 1: 10/30 SMA,buy,2017-07-18,66.72,1498.0,golden_cross
+Strategy 1: 10/30 SMA,sell,2017-08-22,66.95,0.0,death_cross
+Strategy 1: 10/30 SMA,buy,2017-08-24,66.52,1503.0,golden_cross
+Strategy 1: 10/30 SMA,sell,2017-10-04,68.35,0.0,death_cross
+Strategy 1: 10/30 SMA,buy,2017-10-05,69.52,1438.0,golden_cross
+Strategy 1: 10/30 SMA,sell,2017-10-27,76.7,0.0,rsi_overbought
+Strategy 1: 10/30 SMA,buy,2018-04-17,88.77,1126.0,golden_cross
+Strategy 1: 10/30 SMA,sell,2018-06-29,91.52,0.0,death_cross
+Strategy 1: 10/30 SMA,buy,2018-07-12,96.69,1034.0,golden_cross
+Strategy 1: 10/30 SMA,sell,2018-10-11,98.67,0.0,death_cross
+Strategy 1: 10/30 SMA,buy,2018-11-15,100.38,996.0,golden_cross
+Strategy 1: 10/30 SMA,sell,2018-11-21,96.47,0.0,death_cross
+Strategy 1: 10/30 SMA,buy,2018-12-03,104.88,953.0,golden_cross
+Strategy 1: 10/30 SMA,sell,2018-12-18,97.28,0.0,death_cross
+Strategy 1: 10/30 SMA,buy,2019-10-16,132.86,752.0,golden_cross
+Strategy 1: 10/30 SMA,sell,2020-02-10,179.17,0.0,rsi_overbought
+Strategy 1: 10/30 SMA,buy,2020-04-07,155.65,642.0,golden_cross
+Strategy 1: 10/30 SMA,sell,2020-09-15,199.81,0.0,death_cross
+Strategy 1: 10/30 SMA,buy,2020-10-12,211.89,471.0,golden_cross
+Strategy 1: 10/30 SMA,sell,2020-10-30,193.77,0.0,death_cross
+Strategy 1: 10/30 SMA,buy,2020-11-24,205.21,487.0,golden_cross
+Strategy 1: 10/30 SMA,sell,2020-12-15,205.47,0.0,death_cross
+Strategy 1: 10/30 SMA,buy,2020-12-18,209.75,476.0,golden_cross
+Strategy 1: 10/30 SMA,sell,2021-01-14,204.4,476.0,death_cross
+Strategy 1: 10/30 SMA,buy,2021-03-31,226.75,441.0,golden_cross
+Strategy 1: 10/30 SMA,sell,2021-05-10,237.73,0.0,death_cross
+Strategy 1: 10/30 SMA,buy,2021-12-31,325.42,307.0,golden_cross
+Strategy 1: 10/30 SMA,sell,2022-01-10,304.08,0.0,death_cross
+Strategy 1: 10/30 SMA,buy,2023-10-16,327.09,305.0,golden_cross
+Strategy 1: 10/30 SMA,sell,2023-12-19,367.78,0.0,death_cross
+Strategy 2: 20/50 SMA + 200 Trend Filter,buy,2016-10-21,53.31,1875.0,golden_cross
+Strategy 2: 20/50 SMA + 200 Trend Filter,sell,2017-05-01,62.82,0.0,rsi_overbought
+Strategy 2: 20/50 SMA + 200 Trend Filter,buy,2018-04-26,87.1,1148.0,golden_cross
+Strategy 2: 20/50 SMA + 200 Trend Filter,sell,2018-10-24,95.32,0.0,death_cross
+Strategy 2: 20/50 SMA + 200 Trend Filter,buy,2019-09-19,133.49,749.0,golden_cross
+Strategy 2: 20/50 SMA + 200 Trend Filter,sell,2020-02-10,179.17,0.0,rsi_overbought
+Strategy 2: 20/50 SMA + 200 Trend Filter,buy,2020-12-17,210.54,474.0,golden_cross
+Strategy 2: 20/50 SMA + 200 Trend Filter,sell,2021-03-24,226.45,474.0,death_cross
+Strategy 2: 20/50 SMA + 200 Trend Filter,buy,2021-06-17,251.5,397.0,golden_cross
+Strategy 2: 20/50 SMA + 200 Trend Filter,sell,2021-10-06,283.09,397.0,death_cross
+Strategy 2: 20/50 SMA + 200 Trend Filter,buy,2023-02-07,261.31,382.0,golden_cross
+Strategy 2: 20/50 SMA + 200 Trend Filter,sell,2023-02-22,246.25,382.0,trend_reversal
+Strategy 2: 20/50 SMA + 200 Trend Filter,buy,2023-10-25,334.99,298.0,golden_cross
+Strategy 3: MACD+RSI,buy,2014-03-18,33.06,3024.0,macd_cross
+Strategy 3: MACD+RSI,sell,2014-03-20,33.71,0.0,signal
+Strategy 3: MACD+RSI,buy,2014-05-13,34.03,2938.0,macd_cross
+Strategy 3: MACD+RSI,sell,2014-05-20,33.4,0.0,signal
+Strategy 3: MACD+RSI,buy,2014-05-21,33.97,2944.0,macd_cross
+Strategy 3: MACD+RSI,sell,2014-07-01,35.25,0.0,signal
+Strategy 3: MACD+RSI,buy,2014-08-15,37.7,2652.0,macd_cross
+Strategy 3: MACD+RSI,sell,2014-08-19,38.4,0.0,signal
+Strategy 3: MACD+RSI,buy,2014-09-05,38.89,2571.0,macd_cross
+Strategy 3: MACD+RSI,sell,2014-09-08,39.36,0.0,signal
+Strategy 3: MACD+RSI,buy,2014-10-24,39.07,2559.0,macd_cross
+Strategy 3: MACD+RSI,sell,2014-11-13,42.02,0.0,signal
+Strategy 3: MACD+RSI,buy,2014-12-23,41.3,2421.0,macd_cross
+Strategy 3: MACD+RSI,sell,2014-12-31,39.59,0.0,signal
+Strategy 3: MACD+RSI,buy,2015-01-22,40.17,2489.0,macd_cross
+Strategy 3: MACD+RSI,sell,2015-01-27,36.36,0.0,signal
+Strategy 3: MACD+RSI,buy,2015-03-20,36.81,2716.0,macd_cross
+Strategy 3: MACD+RSI,sell,2015-03-26,35.38,0.0,signal
+Strategy 3: MACD+RSI,buy,2015-07-13,39.35,2541.0,macd_cross
+Strategy 3: MACD+RSI,sell,2015-08-13,40.38,0.0,signal
+Strategy 3: MACD+RSI,buy,2015-08-17,40.89,2445.0,macd_cross
+Strategy 3: MACD+RSI,sell,2015-08-20,39.71,0.0,signal
+Strategy 3: MACD+RSI,buy,2016-01-29,48.24,2073.0,macd_cross
+Strategy 3: MACD+RSI,sell,2016-02-05,43.92,0.0,signal
+Strategy 3: MACD+RSI,buy,2016-02-17,46.23,2163.0,macd_cross
+Strategy 3: MACD+RSI,sell,2016-04-07,48.03,0.0,signal
+Strategy 3: MACD+RSI,buy,2016-04-18,49.79,2008.0,macd_cross
+Strategy 3: MACD+RSI,sell,2016-04-22,45.66,0.0,signal
+Strategy 3: MACD+RSI,buy,2016-06-23,46.1,2169.0,macd_cross
+Strategy 3: MACD+RSI,sell,2016-06-24,44.25,0.0,signal
+Strategy 3: MACD+RSI,buy,2016-06-30,45.44,2200.0,macd_cross
+Strategy 3: MACD+RSI,sell,2016-07-20,49.65,0.0,signal
+Strategy 3: MACD+RSI,buy,2016-09-27,51.78,1931.0,macd_cross
+Strategy 3: MACD+RSI,sell,2016-10-03,51.31,0.0,signal
+Strategy 3: MACD+RSI,buy,2016-10-07,51.65,1936.0,macd_cross
+Strategy 3: MACD+RSI,sell,2016-10-11,51.11,0.0,signal
+Strategy 3: MACD+RSI,buy,2016-10-21,53.31,1875.0,macd_cross
+Strategy 3: MACD+RSI,sell,2016-10-24,54.51,0.0,signal
+Strategy 3: MACD+RSI,buy,2016-11-08,54.04,1850.0,macd_cross
+Strategy 3: MACD+RSI,sell,2016-11-10,52.45,0.0,signal
+Strategy 3: MACD+RSI,buy,2016-11-18,54.29,1841.0,macd_cross
+Strategy 3: MACD+RSI,sell,2016-12-01,53.26,0.0,signal
+Strategy 3: MACD+RSI,buy,2016-12-08,54.89,1821.0,macd_cross
+Strategy 3: MACD+RSI,sell,2016-12-29,56.59,0.0,signal
+Strategy 3: MACD+RSI,buy,2017-01-25,57.29,1745.0,macd_cross
+Strategy 3: MACD+RSI,sell,2017-01-27,59.18,0.0,signal
+Strategy 3: MACD+RSI,buy,2017-02-14,58.44,1711.0,macd_cross
+Strategy 3: MACD+RSI,sell,2017-02-27,58.13,0.0,signal
+Strategy 3: MACD+RSI,buy,2017-03-28,59.09,1692.0,macd_cross
+Strategy 3: MACD+RSI,sell,2017-04-10,59.31,0.0,signal
+Strategy 3: MACD+RSI,buy,2017-05-26,63.68,1570.0,macd_cross
+Strategy 3: MACD+RSI,sell,2017-06-02,65.32,0.0,signal
+Strategy 3: MACD+RSI,buy,2017-07-12,64.77,1544.0,macd_cross
+Strategy 3: MACD+RSI,sell,2017-07-20,67.56,0.0,signal
+Strategy 3: MACD+RSI,buy,2017-08-16,67.4,1483.0,macd_cross
+Strategy 3: MACD+RSI,sell,2017-08-17,66.26,0.0,signal
+Strategy 3: MACD+RSI,buy,2017-08-30,67.73,1476.0,macd_cross
+Strategy 3: MACD+RSI,sell,2017-09-21,67.91,0.0,signal
+Strategy 3: MACD+RSI,buy,2017-10-05,69.52,1438.0,macd_cross
+Strategy 3: MACD+RSI,sell,2017-10-12,70.57,0.0,signal
+Strategy 3: MACD+RSI,buy,2017-12-12,78.71,1270.0,macd_cross
+Strategy 3: MACD+RSI,sell,2017-12-22,78.65,0.0,signal
+Strategy 3: MACD+RSI,buy,2018-02-20,85.68,1167.0,macd_cross
+Strategy 3: MACD+RSI,sell,2018-03-14,86.72,0.0,signal
+Strategy 3: MACD+RSI,buy,2018-04-10,85.83,1165.0,macd_cross
+Strategy 3: MACD+RSI,sell,2018-04-30,86.42,0.0,signal
+Strategy 3: MACD+RSI,buy,2018-05-01,87.78,1139.0,macd_cross
+Strategy 3: MACD+RSI,sell,2018-05-02,86.41,0.0,signal
+Strategy 3: MACD+RSI,buy,2018-05-07,88.91,1124.0,macd_cross
+Strategy 3: MACD+RSI,sell,2018-06-04,94.35,0.0,signal
+Strategy 3: MACD+RSI,buy,2018-07-09,94.52,1057.0,macd_cross
+Strategy 3: MACD+RSI,sell,2018-07-23,100.2,0.0,signal
+Strategy 3: MACD+RSI,buy,2018-08-09,101.78,982.0,macd_cross
+Strategy 3: MACD+RSI,sell,2018-08-10,101.16,0.0,signal
+Strategy 3: MACD+RSI,buy,2018-08-29,104.36,958.0,macd_cross
+Strategy 3: MACD+RSI,sell,2018-09-06,101.3,0.0,signal
+Strategy 3: MACD+RSI,buy,2018-09-13,105.19,950.0,macd_cross
+Strategy 3: MACD+RSI,sell,2018-10-04,105.08,0.0,signal
+Strategy 3: MACD+RSI,buy,2018-11-05,100.16,998.0,macd_cross
+Strategy 3: MACD+RSI,sell,2018-11-19,97.89,0.0,signal
+Strategy 3: MACD+RSI,buy,2018-11-27,100.25,997.0,macd_cross
+Strategy 3: MACD+RSI,sell,2018-12-14,99.21,0.0,signal
+Strategy 3: MACD+RSI,buy,2019-02-05,100.32,996.0,macd_cross
+Strategy 3: MACD+RSI,sell,2019-02-11,98.48,0.0,signal
+Strategy 3: MACD+RSI,buy,2019-02-12,100.01,999.0,macd_cross
+Strategy 3: MACD+RSI,sell,2019-03-08,103.84,0.0,signal
+Strategy 3: MACD+RSI,buy,2019-03-12,106.76,936.0,macd_cross
+Strategy 3: MACD+RSI,sell,2019-03-15,108.91,0.0,signal
+Strategy 3: MACD+RSI,buy,2019-06-07,123.93,806.0,macd_cross
+Strategy 3: MACD+RSI,sell,2019-06-20,129.16,0.0,signal
+Strategy 3: MACD+RSI,buy,2019-07-26,133.3,750.0,macd_cross
+Strategy 3: MACD+RSI,sell,2019-07-31,128.52,0.0,signal
+Strategy 3: MACD+RSI,buy,2019-08-21,131.33,761.0,macd_cross
+Strategy 3: MACD+RSI,sell,2019-08-23,126.22,0.0,signal
+Strategy 3: MACD+RSI,buy,2019-08-30,130.45,766.0,macd_cross
+Strategy 3: MACD+RSI,sell,2019-09-11,128.81,0.0,signal
+Strategy 3: MACD+RSI,buy,2019-09-18,131.08,762.0,macd_cross
+Strategy 3: MACD+RSI,sell,2019-10-01,129.7,0.0,signal
+Strategy 3: MACD+RSI,buy,2019-10-11,132.17,756.0,macd_cross
+Strategy 3: MACD+RSI,sell,2019-10-22,129.04,0.0,signal
+Strategy 3: MACD+RSI,buy,2019-10-25,133.17,750.0,macd_cross
+Strategy 3: MACD+RSI,sell,2019-11-15,141.91,0.0,signal
+Strategy 3: MACD+RSI,buy,2020-03-26,148.63,672.0,macd_cross
+Strategy 3: MACD+RSI,sell,2020-05-13,171.14,672.0,signal
+Strategy 3: MACD+RSI,buy,2020-06-09,181.21,641.0,macd_cross
+Strategy 3: MACD+RSI,sell,2020-06-10,187.93,0.0,signal
+Strategy 3: MACD+RSI,buy,2020-06-16,184.81,629.0,macd_cross
+Strategy 3: MACD+RSI,sell,2020-07-06,201.16,0.0,signal
+Strategy 3: MACD+RSI,buy,2020-08-04,203.63,571.0,macd_cross
+Strategy 3: MACD+RSI,sell,2020-08-11,194.17,0.0,signal
+Strategy 3: MACD+RSI,buy,2020-08-20,205.36,566.0,macd_cross
+Strategy 3: MACD+RSI,sell,2020-08-28,219.07,0.0,signal
+Strategy 3: MACD+RSI,buy,2020-11-05,213.7,544.0,macd_cross
+Strategy 3: MACD+RSI,sell,2020-11-18,202.54,0.0,signal
+Strategy 3: MACD+RSI,buy,2020-12-01,207.46,560.0,macd_cross
+Strategy 3: MACD+RSI,sell,2020-12-09,203.23,0.0,signal
+Strategy 3: MACD+RSI,buy,2020-12-16,210.41,552.0,macd_cross
+Strategy 3: MACD+RSI,sell,2021-01-04,208.88,0.0,signal
+Strategy 3: MACD+RSI,buy,2021-01-21,215.87,538.0,macd_cross
+Strategy 3: MACD+RSI,sell,2021-01-28,229.26,0.0,signal
+Strategy 3: MACD+RSI,buy,2021-03-16,228.62,508.0,macd_cross
+Strategy 3: MACD+RSI,sell,2021-03-18,221.89,508.0,signal
+Strategy 3: MACD+RSI,buy,2021-03-23,228.49,496.0,macd_cross
+Strategy 3: MACD+RSI,sell,2021-03-25,223.45,0.0,signal
+Strategy 3: MACD+RSI,buy,2021-03-26,227.43,499.0,macd_cross
+Strategy 3: MACD+RSI,sell,2021-03-30,222.98,0.0,signal
+Strategy 3: MACD+RSI,buy,2021-04-01,233.08,487.0,macd_cross
+Strategy 3: MACD+RSI,sell,2021-04-13,248.6,0.0,signal
+Strategy 3: MACD+RSI,buy,2021-05-25,242.65,467.0,macd_cross
+Strategy 3: MACD+RSI,sell,2021-06-29,261.62,467.0,signal
+Strategy 3: MACD+RSI,buy,2021-10-08,284.77,428.0,macd_cross
+Strategy 3: MACD+RSI,sell,2021-10-27,312.12,0.0,signal
+Strategy 3: MACD+RSI,buy,2021-12-27,331.35,368.0,macd_cross
+Strategy 3: MACD+RSI,sell,2022-01-04,318.34,0.0,signal
+Strategy 3: MACD+RSI,buy,2022-01-31,300.9,405.0,macd_cross
+Strategy 3: MACD+RSI,sell,2022-02-17,281.89,405.0,signal
+Strategy 3: MACD+RSI,buy,2022-03-16,285.44,403.0,macd_cross
+Strategy 3: MACD+RSI,sell,2022-04-07,292.2,403.0,signal
+Strategy 3: MACD+RSI,buy,2022-07-20,254.88,461.0,macd_cross
+Strategy 3: MACD+RSI,sell,2022-07-26,244.81,461.0,signal
+Strategy 3: MACD+RSI,buy,2022-07-27,261.17,452.0,macd_cross
+Strategy 3: MACD+RSI,sell,2022-08-22,270.5,0.0,signal
+Strategy 3: MACD+RSI,buy,2022-10-17,231.33,510.0,macd_cross
+Strategy 3: MACD+RSI,sell,2022-11-01,222.22,0.0,signal
+Strategy 3: MACD+RSI,buy,2022-11-10,236.64,499.0,macd_cross
+Strategy 3: MACD+RSI,sell,2022-12-08,241.62,0.0,signal
+Strategy 3: MACD+RSI,buy,2022-12-13,250.92,470.0,macd_cross
+Strategy 3: MACD+RSI,sell,2022-12-16,238.98,0.0,signal
+Strategy 3: MACD+RSI,buy,2023-01-13,233.64,505.0,macd_cross
+Strategy 3: MACD+RSI,sell,2023-02-17,252.67,505.0,signal
+Strategy 3: MACD+RSI,buy,2023-03-15,259.89,486.0,macd_cross
+Strategy 3: MACD+RSI,sell,2023-03-17,273.59,0.0,signal
+Strategy 3: MACD+RSI,buy,2023-04-27,298.46,423.0,macd_cross
+Strategy 3: MACD+RSI,sell,2023-05-15,302.99,0.0,signal
+Strategy 3: MACD+RSI,buy,2023-07-17,339.24,372.0,macd_cross
+Strategy 3: MACD+RSI,sell,2023-07-18,352.74,0.0,signal
+Strategy 3: MACD+RSI,buy,2023-07-25,344.39,366.0,macd_cross
+Strategy 3: MACD+RSI,sell,2023-07-26,331.43,366.0,signal
+Strategy 3: MACD+RSI,buy,2023-08-23,321.54,391.0,macd_cross
+Strategy 3: MACD+RSI,sell,2023-09-20,315.42,0.0,signal
+Strategy 3: MACD+RSI,buy,2023-10-06,321.8,390.0,macd_cross
+Strategy 3: MACD+RSI,sell,2023-11-07,354.51,390.0,signal
+Strategy 4: MACD+RSI+50% Base Position,buy_init,2014-02-20,31.56,0.5,init_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2014-03-10,31.61,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2014-03-18,33.06,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2014-03-20,33.71,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2014-03-24,33.85,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2014-05-13,34.03,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2014-05-21,33.97,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2014-07-01,35.25,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2014-07-16,37.11,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2014-07-17,37.49,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2014-07-21,37.75,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2014-08-15,37.7,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2014-08-19,38.4,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2014-09-05,38.89,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2014-09-08,39.36,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2014-09-09,39.61,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2014-09-11,39.81,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2014-09-19,40.25,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2014-10-24,39.07,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2014-11-13,42.02,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2014-12-23,41.3,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2015-01-22,40.17,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2015-03-20,36.81,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2015-04-28,42.2,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2015-07-13,39.35,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2015-08-17,40.89,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2015-10-23,45.98,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2015-10-26,47.18,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2015-11-06,47.77,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2016-01-29,48.24,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2016-02-17,46.23,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2016-04-07,48.03,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2016-04-18,49.79,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2016-06-23,46.1,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2016-06-30,45.44,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2016-07-20,49.65,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2016-07-22,50.24,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2016-08-03,50.59,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2016-08-04,50.97,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2016-08-05,51.47,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2016-08-09,51.69,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2016-08-25,51.98,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2016-09-27,51.78,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2016-10-07,51.65,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2016-10-21,53.31,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2016-10-24,54.51,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2016-11-08,54.04,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2016-11-18,54.29,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2016-12-08,54.89,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2016-12-29,56.59,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2017-01-25,57.29,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2017-01-27,59.18,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2017-02-14,58.44,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2017-03-28,59.09,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2017-04-24,61.12,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2017-04-25,61.47,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2017-04-27,61.79,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2017-04-28,61.96,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2017-05-01,62.82,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2017-05-16,63.18,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2017-05-26,63.68,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2017-06-02,65.32,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2017-06-05,65.79,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2017-06-06,66.01,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2017-07-12,64.77,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2017-07-20,67.56,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2017-08-16,67.4,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2017-08-30,67.73,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2017-09-21,67.91,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2017-10-05,69.52,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2017-10-12,70.57,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2017-10-13,70.91,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2017-10-19,71.3,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2017-10-20,72.12,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2017-10-27,76.7,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2017-11-02,76.92,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2017-11-06,77.3,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2017-11-28,78.07,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2017-12-12,78.71,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2017-12-22,78.65,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2018-01-05,81.11,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2018-01-12,82.41,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2018-01-22,84.26,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2018-01-25,84.92,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2018-01-26,86.51,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2018-01-31,87.38,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2018-02-20,85.68,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2018-04-10,85.83,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2018-05-01,87.78,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2018-05-07,88.91,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2018-06-04,94.35,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2018-06-05,94.84,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2018-07-09,94.52,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2018-07-23,100.2,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2018-07-25,102.86,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2018-08-09,101.78,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2018-08-29,104.36,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2018-09-13,105.19,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2018-10-04,105.08,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2018-11-05,100.16,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2018-11-27,100.25,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2019-02-05,100.32,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2019-02-12,100.01,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2019-03-12,106.76,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2019-03-15,108.91,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2019-03-18,110.47,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2019-03-21,112.96,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2019-04-17,114.42,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2019-04-18,115.92,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2019-04-23,117.87,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2019-04-25,121.35,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2019-04-26,122.05,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2019-04-30,122.72,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2019-06-07,123.93,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2019-06-20,129.16,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2019-06-24,129.94,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2019-07-26,133.3,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2019-08-21,131.33,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2019-08-30,130.45,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2019-09-18,131.08,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2019-10-11,132.17,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2019-10-25,133.17,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2019-11-15,141.91,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2019-11-18,142.26,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2019-11-25,143.59,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2019-11-26,144.35,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2019-12-12,145.5,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2019-12-13,146.72,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2019-12-16,147.67,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2019-12-20,149.46,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2019-12-26,150.65,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2019-12-27,150.93,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2020-01-02,152.51,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2020-01-09,153.9,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2020-01-13,155.03,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2020-01-16,157.78,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2020-01-17,158.66,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2020-01-30,164.05,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2020-02-03,165.57,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2020-02-04,171.02,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2020-02-06,174.35,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2020-02-10,179.17,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2020-03-26,148.63,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2020-06-09,181.21,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2020-06-10,187.93,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2020-06-16,184.81,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2020-07-06,201.16,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2020-07-08,203.19,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2020-07-09,204.62,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2020-08-04,203.63,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2020-08-20,205.36,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2020-08-28,219.07,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2020-09-02,221.7,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2020-11-05,213.7,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2020-12-01,207.46,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2020-12-16,210.41,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2021-01-21,215.87,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2021-01-28,229.26,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2021-02-03,233.17,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2021-02-12,235.08,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2021-03-16,228.62,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2021-03-23,228.49,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2021-03-26,227.43,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2021-04-01,233.08,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2021-04-13,248.6,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2021-04-16,250.77,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2021-05-25,242.65,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2021-06-29,261.62,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2021-07-01,261.81,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2021-07-02,267.65,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2021-07-07,269.84,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2021-07-13,270.86,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2021-07-14,272.33,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2021-07-22,275.83,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2021-07-23,279.23,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2021-08-13,282.3,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2021-08-16,283.99,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2021-08-19,286.63,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2021-08-20,293.96,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2021-08-23,294.24,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2021-10-08,284.77,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2021-10-27,312.12,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2021-10-28,313.26,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2021-10-29,320.28,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2021-11-02,321.74,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2021-11-04,324.94,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2021-11-08,325.47,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2021-11-16,327.9,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2021-11-18,330.21,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2021-11-19,331.99,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2021-12-27,331.35,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2022-01-31,300.9,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2022-03-16,285.44,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2022-07-20,254.88,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2022-07-27,261.17,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2022-10-17,231.33,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2022-11-10,236.64,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2022-12-13,250.92,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2023-01-13,233.64,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2023-02-17,252.67,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2023-03-15,259.89,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2023-03-17,273.59,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2023-04-12,277.56,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2023-04-27,298.46,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2023-05-15,302.99,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2023-05-18,312.54,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2023-05-22,315.15,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2023-05-25,319.8,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2023-05-26,326.64,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2023-06-02,329.11,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2023-06-15,341.57,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2023-07-17,339.24,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2023-07-18,352.74,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2023-07-25,344.39,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2023-07-26,331.43,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2023-08-23,321.54,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,buy_signal,2023-10-06,321.8,1.0,macd_cross
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2023-11-07,354.51,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2023-11-08,357.14,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2023-11-10,363.5,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2023-11-16,370.64,0.5,reduce_to_base
+Strategy 4: MACD+RSI+50% Base Position,sell_extra,2023-11-28,377.08,0.5,reduce_to_base

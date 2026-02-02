@@ -1,0 +1,91 @@
+{
+  "report_date": "2026-01-30 04:17:32",
+  "ticker": "MSFT",
+  "period": "2014-01-01 to 2024-01-01",
+  "strategies": {
+    "strategy1": {
+      "name": "Strategy 1: 10/30 SMA",
+      "basic_metrics": {
+        "initial_cash": 100000,
+        "final_value": 97962.45,
+        "total_return_pct": -2.04,
+        "total_trades": 44
+      },
+      "risk_metrics": {
+        "max_drawdown": 0,
+        "sharpe_ratio": 6.63,
+        "annualized_return": -0.21,
+        "annualized_volatility": 181.48,
+        "win_rate": 68.18,
+        "profit_factor": 3.34,
+        "total_trades": 22,
+        "wins": 15,
+        "losses": 7,
+        "avg_return_per_trade": 4.78
+      }
+    },
+    "strategy2": {
+      "name": "Strategy 2: 20/50 SMA + 200 Trend Filter",
+      "basic_metrics": {
+        "initial_cash": 100000,
+        "final_value": 125234.96,
+        "total_return_pct": 25.23,
+        "total_trades": 13
+      },
+      "risk_metrics": {
+        "max_drawdown": 20.15,
+        "sharpe_ratio": 16.69,
+        "annualized_return": 2.28,
+        "annualized_volatility": 190.87,
+        "win_rate": 83.33,
+        "profit_factor": 14.16,
+        "total_trades": 6,
+        "wins": 5,
+        "losses": 1,
+        "avg_return_per_trade": 12.64
+      }
+    },
+    "strategy3": {
+      "name": "Strategy 3: MACD+RSI",
+      "basic_metrics": {
+        "initial_cash": 100000,
+        "final_value": 139653.91,
+        "total_return_pct": 39.65,
+        "total_trades": 162
+      },
+      "risk_metrics": {
+        "max_drawdown": 28.39,
+        "sharpe_ratio": 2.47,
+        "annualized_return": 3.4,
+        "annualized_volatility": 74.1,
+        "win_rate": 49.38,
+        "profit_factor": 1.48,
+        "total_trades": 81,
+        "wins": 40,
+        "losses": 41,
+        "avg_return_per_trade": 0.73
+      }
+    },
+    "strategy4": {
+      "name": "Strategy 4: MACD+RSI+50% Base Position",
+      "basic_metrics": {
+        "initial_cash": 100000,
+        "final_value": 429083.97,
+        "total_return_pct": 329.08,
+        "total_trades": 222
+      },
+      "risk_metrics": {
+        "max_drawdown": 76.69,
+        "sharpe_ratio": -21.83,
+        "annualized_return": 15.68,
+        "annualized_volatility": 321.43,
+        "win_rate": 8.54,
+        "profit_factor": 0.01,
+        "total_trades": 82,
+        "wins": 7,
+        "losses": 75,
+        "avg_return_per_trade": -27.85
+      }
+    }
+  }
+}

@@ -1,0 +1,85 @@
+**Investment Analysis Report: Backtest of Four MSFT Trading Strategies (2014-2024)**
+
+**Date:** January 30, 2026
+**Prepared For:** Investment Committee
+**Prepared By:** Quantitative Investment Analysis Team
+**Ticker:** MSFT (Microsoft Corporation)
+**Backtest Period:** January 1, 2014 – January 1, 2024
+**Initial Capital:** $100,000
+
+---
+
+### **1. Executive Summary**
+
+This report analyzes the backtested performance of four distinct quantitative trading strategies applied to Microsoft (MSFT) over a ten-year period. The primary objective is to evaluate the risk-adjusted efficacy of each strategy and identify the most suitable approach for potential live deployment or further research.
+
+**Key Conclusion:** No single strategy emerges as a clearly superior, production-ready candidate. **Strategy 2 (20/50 SMA + 200 Trend Filter)** demonstrates the most robust and credible risk-adjusted profile, characterized by a high Sharpe ratio, strong win rate, and controlled drawdowns, albeit with a modest absolute return. **Strategy 4 (MACD+RSI+50% Base Position)**, while generating exceptional nominal returns, exhibits severe risk metrics that suggest significant data mining bias, overfitting, or a flawed execution logic, rendering its results non-viable. **Strategy 1** failed to generate a positive return, and **Strategy 3** offered moderate returns with higher activity and drawdown.
+
+---
+
+### **2. Strategy Performance Comparison & Ranking**
+
+The following table summarizes the core performance and risk metrics, providing a basis for comparative analysis:
+
+| Metric | Strategy 1: 10/30 SMA | Strategy 2: 20/50 SMA + 200 Trend Filter | Strategy 3: MACD+RSI | Strategy 4: MACD+RSI+50% Base Position |
+| :--- | :---: | :---: | :---: | :---: |
+| **Total Return** | -2.04% | **25.23%** | 39.65% | **329.08%** |
+| **Annualized Return** | -0.21% | 2.28% | 3.40% | **15.68%** |
+| **Annualized Volatility** | 181.48% | 190.87% | **74.10%** | 321.43% |
+| **Sharpe Ratio** | 6.63 | **16.69** | 2.47 | -21.83 |
+| **Max Drawdown** | **0.00%** | 20.15% | 28.39% | 76.69% |
+| **Win Rate** | 68.18% | **83.33%** | 49.38% | 8.54% |
+| **Profit Factor** | 3.34 | **14.16** | 1.48 | 0.01 |
+| **Number of Trades** | 44 | **13** | 162 | 222 |
+| **Avg. Return/Trade** | 4.78% | **12.64%** | 0.73% | -27.85% |
+
+**Performance Ranking (Based on Holistic Assessment):**
+1.  **Strategy 2:** Best risk-adjusted profile (High Sharpe, High Win Rate, High Profit Factor).
+2.  **Strategy 3:** Moderate return with more frequent trading and higher drawdown.
+3.  **Strategy 1:** Low activity, negative return, but suspiciously perfect risk metrics.
+4.  **Strategy 4:** Highest nominal return but catastrophic risk metrics.
+
+---
+
+### **3. Deep-Dive Strategy Insights**
+
+**Strategy 1 (10/30 SMA):**
+*   **Analysis:** The strategy resulted in a slight capital loss (-2.04%) over the decade. The reported 0% max drawdown and a Sharpe ratio of 6.63 paired with a 181% volatility are mathematically inconsistent and strongly indicate a potential error in the backtest engine's calculation of equity curve or volatility, likely related to infrequent trading and portfolio sizing. The results are not credible for evaluation.
+
+**Strategy 2 (20/50 SMA + 200 Trend Filter):**
+*   **Analysis:** This is the most compelling strategy from a quality-of-signal perspective. It employs a dual moving average crossover (20/50 SMA) filtered by the long-term 200-day SMA trend, resulting in very low activity (13 trades). The metrics are exceptional: an **83.33% win rate**, a stellar **Profit Factor of 14.16**, and the highest **Sharpe Ratio (16.69)**. The 20.15% max drawdown is acceptable. This strategy effectively captures major trend movements while avoiding whipsaws, demonstrating high selectivity and efficiency.
+
+**Strategy 3 (MACD+RSI):**
+*   **Analysis:** A typical multi-indicator mean-reversion/momentum strategy. It generated a respectable 39.65% total return with significantly lower volatility (74.1%) than the SMA-based strategies. However, its Sharpe ratio (2.47) is modest, the win rate is near 50% (coin flip), and it endured a significant 28.39% drawdown. It represents a common, active approach that delivers market-beating returns but with higher turnover and emotional toll due to frequent losses.
+
+**Strategy 4 (MACD+RSI+50% Base Position):**
+*   **Analysis:** The extraordinary 329% return is a severe outlier that warrants extreme skepticism. The accompanying metrics are disastrous: a **negative Sharpe ratio (-21.83)**, a **76.69% maximum drawdown**, a **win rate of 8.54%**, and a **Profit Factor of 0.01**. The average loss per trade (-27.85%) dwarfs the average gain. This profile is characteristic of a strategy that (a) employs excessive, unsustainable leverage, (b) has a "lottery ticket" payoff structure with many small losses and a few enormous wins, or (c) contains a critical flaw in its trade logic or position sizing (e.g., pyramiding into losing positions). **This strategy is deemed non-investable and its return is considered a statistical artifact rather than a repeatable alpha.**
+
+---
+
+### **4. Investment Recommendations**
+
+1.  **Primary Recommendation – Further Development of Strategy 2:** Allocate resources to rigorously stress-test **Strategy 2**.
+    *   Conduct out-of-sample testing on different market regimes and equities.
+    *   Optimize position sizing (e.g., using volatility targeting) to reduce the reported volatility metric to a realistic level.
+    *   Develop robust trade entry/exit mechanisms around its core signals. This strategy has the highest probability of containing a sustainable, logical edge.
+
+2.  **Secondary Consideration – Strategy 3 as a Benchmark/Component:** **Strategy 3** can be used as a benchmark for higher-frequency tactical models. Its logic could be refined (e.g., by adding volatility filters or dynamic RSI bands) to improve its win rate and risk-adjusted returns. It may serve as a complementary component in a multi-strategy portfolio.
+
+3.  **Reject Strategy 1 and Strategy 4:**
+    *   **Strategy 1's** results are likely erroneous and do not justify further exploration.
+    *   **Strategy 4** must be **rejected entirely**. Its development approach should be reviewed to understand how such pathological risk metrics were generated, to prevent similar errors in future research.
+
+---
+
+### **5. Critical Risk Notes & Caveats**
+
+*   **Past Performance:** This analysis is based entirely on historical backtesting. Future market conditions may differ materially, and past performance does not guarantee future results.
+*   **Overfitting Risk:** All strategies, particularly 3 and 4, are at high risk of being over-optimized to this specific 10-year period in MSFT's strong bullish trend.
+*   **Transaction Costs & Slippage:** This analysis assumes perfect execution with no transaction costs, commissions, or slippage. Incorporating realistic costs would negatively impact all strategies, especially high-frequency ones like Strategy 3.
+*   **Survivorship Bias:** The test was conducted on MSFT, a successful mega-cap company. The strategies have not been tested on companies that declined or were delisted.
+*   **Model Risk (Strategy 1 & 4):** The metrics for Strategy 1 (0% drawdown, high Sharpe) and Strategy 4 (extreme contradictions) strongly suggest underlying model or calculation errors. These results should not be trusted without a full audit of the backtest code and logic.
+*   **Next Steps:** Prior to any live deployment, recommended strategies must undergo rigorous walk-forward analysis, Monte Carlo simulation, and be tested across a broad universe of securities.
+
+---
+**Disclaimer:** This report is for informational and research purposes only and does not constitute investment advice or a recommendation to buy or sell any security.
